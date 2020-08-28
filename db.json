@@ -1,5 +1,7 @@
 {
   "status": [
-    { "realizadas": 30, "desarrollo": 40, "norealizada": 20}
+    {"label":"Realizadas", "Cantidad":"30"},
+    {"label":"En Desarrollo" "Cantidad":"40"},
+    {"label":"No Realizadas", "Cantidad":"20"}
   ]
 }
