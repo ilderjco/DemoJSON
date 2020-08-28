@@ -1,7 +1,5 @@
 {
-  "evaluaciones": [
-    { "id": 1, "status": ["Realizadas": 20, "En Desarrollo": 30, "Por realizar": 10 ]},
-    { "id": 2, "status": ["Realizadas": 20, "En Desarrollo": 30, "Por realizar": 10 ]},
-    { "id": 3, "status": ["Realizadas": 20, "En Desarrollo": 30, "Por realizar": 10 ]},
+  "status": [
+    { "realizadas": 30, "desarrollo": 40, "norealizada": 20},
   ]
 }
