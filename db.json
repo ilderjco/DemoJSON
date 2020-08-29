@@ -1,7 +1,7 @@
 {
   "status": [
-    {"label":"Realizadas","cantidad":"30"},
-    {"label":"En Desarrollo","cantidad":"40"},
-    {"label":"No Realizadas","cantidad":"20"}
+    {"label":"Realizadas","cantidad":30},
+    {"label":"En Desarrollo","cantidad":40},
+    {"label":"No Realizadas","cantidad":20}
   ]
 }
